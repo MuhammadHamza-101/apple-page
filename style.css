@@ -1,0 +1,203 @@
+*{
+    margin: 0%; 
+    height: auto;
+    padding: auto;
+   
+}
+body{
+    margin:0px 0px 50px auto;
+    font-family: sans-serif;
+}
+.main{
+    background-color:rgb(251, 251, 253) ;
+}
+.nav{
+    width: auto;
+    height: 28px;
+    background-color: rgb(51, 51, 51);
+    padding: auto;
+}
+
+.space{
+    width: auto;
+    height: 15px;
+    background-color: rgb(51, 51, 51);
+  
+}
+
+.nav li{
+    color: rgb(230, 230, 230);
+    list-style: none;
+     display: inline;
+    margin-left: 9.5%;
+    font-size: 15px;     
+}
+.nav li:hover{
+    color: black;
+   background-color: rgb(0, 113, 227);
+   transition: all 0.8s;
+}
+.scnd{
+height: 40px;
+width: auto;
+background-color: rgb(0, 113, 227);
+}
+.covid{
+    text-align: center;
+    color: rgb(230, 230, 230);
+    font-size: 15px;
+    padding-top: 10px;
+}
+.shop{
+    text-align: center;
+    color:rgb(116, 116, 118);
+    font-size: 15px;
+    padding-top: 10px;
+    margin-top: 5px;
+    text-decoration: none;
+    background-color: rgb(245, 245, 247);
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 102, 204);
+}
+#wht{
+    color: rgb(230, 230, 230);
+}
+.white{
+    color: rgb(230, 230, 230);
+}
+.texts{
+    
+    text-align: center;
+}
+.iphone{
+   
+    font-size: 55px;
+    color: rgb(29, 29, 31);
+    margin-top: 35px;
+}
+
+.blast{
+    margin-bottom: 10px;
+    font-size: 25px;
+    color: rgb(29, 29, 31);
+    margin-top: 5px;
+    margin-top: 5px;
+}
+.lrn{
+    margin-top: 5px;
+    font-size: 18px;
+   color: rgb(167, 167, 171);
+}
+
+.buy{
+    margin-top: 5px;
+    font-size: 18px;
+    color: rgb(167, 167, 171);
+    margin-bottom: 20px;
+}
+.learn li{
+    display: inline;
+    list-style: none;
+    margin:20px;
+    font-size: 20px;
+    
+}
+.im{
+    width: 100%;
+    height: 300px;
+    margin-top: 30px;
+    margin-bottom: 55px;
+}
+.image1{
+    height: 350px;
+    width: 46%;
+    margin-left: 28%;
+    
+    
+    
+}
+.second{
+    height: 700px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+.pro{
+    color: aliceblue;
+    font-size: 55px;
+    padding-top: 50px;
+
+}
+.leap{
+    margin-bottom: 10px;
+    font-size: 25px;
+    color: aliceblue;
+    margin-top: 5px;
+    margin-top: 5px;
+}
+.im{
+    width: 100%;
+    height: 300px;
+    margin-top: 30px;
+    margin-bottom: 55px;
+}
+.image2{
+    height: 350px;
+    width: 55%;
+    margin-left: 15%; 
+}
+.third{
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    background-color:rgb(251, 251, 253) ;
+    margin-bottom: 40px;
+    
+}
+.Air{
+    color: rgb(29, 29, 31);
+    font-size: 65px;
+    padding-top: 50px;
+
+}
+.Powerful{
+    margin-bottom: 15px;
+    font-size: 30px;
+    color: rgb(29, 29, 31);
+    margin-top: 10px;
+    
+}
+.more{
+    margin:20px;
+    font-size: 25px;
+   
+}
+.image3{
+    height: 350px;
+    width: 70%;
+    margin-left: 5%;  
+}
+
+.forth{
+    height: 420px;
+    width: 100%;
+   
+   
+}
+.one{
+    height: 400px;
+    float: left;
+    width: 49%;
+    margin: 1px;
+    margin-left: 10px;
+}
+.two{
+    height: 400px;
+    width: 49%;
+    float: right;
+    margin-right: 10px;
+}
+
+
